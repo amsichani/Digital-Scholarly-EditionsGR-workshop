@@ -6,8 +6,6 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 ## Δομή και πρόγραμμα 
 
-<figure> <img src="../images/programme.png"/> 
-</figure>
 
 1.Theory, history and examples of digital scholarly editing 
 
@@ -17,18 +15,23 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 4.TEI named entities (names, people, dates, places)
 
-5.Transcribing and encoding primary sources.  Editorial interventions 
-& facsimiles
+5.Transcribing editorial interventions and encoding of primary sources 
 
-6.How to make a TEI schema. TEI customization in theory and practice 
+6.Single source - multitude of outputs: Transforming your TEI texts 
 
-7.Transforming & publishing your TEI texts 
+7.Working with facsimiles: Document analysis & Handwritten Text Recognition (READ, Transkribus) 
 
-8.An introduction to XSLT, XPath, XQuery & CSS
+8.How to get a digital scholarly edition off the ground : data acquisition, standards, best practices,documentation, skills, tools, workflow, milestones, open access and reuse, community and collaboration, audiences, engagement
 
-9.Working with facsimiles: Document analysis & Handwritten Text Recognition (READ, Transkribus)
+9.What is, Why  and How to make a TEI schema (ODD). TEI customization in theory and practice
 
-10.Putting it all together. How to create a digital scholarly edition using eXist-db 
+10.Multi-file transform and query: An introduction to eXist, xPath, XQuery 
+
+11.TEI - eXist clinic: Individual project advice / showcase with public discussion
+
+12.Keynote 
+
+13.Putting it all together. How to create a digital scholarly edition: TEI Publisher in eXist-db II 
 
  
 ### Στο σεμινάριο διδάσκουν οι:
